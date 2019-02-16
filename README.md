@@ -135,3 +135,14 @@ print('Total laba yang didapat adalah      :', sum)
 ![flowchart2](https://user-images.githubusercontent.com/43899133/52893530-d00cc580-31cf-11e9-9359-106996608278.png)
 
 ![flowchart3](https://user-images.githubusercontent.com/43899133/52893531-d26f1f80-31cf-11e9-81f9-3af17a891615.png)
+
+
+![latihan1](https://user-images.githubusercontent.com/43899133/52893735-63df9100-31d2-11e9-8fbe-4e1e4330a72f.png)
+
+![latihan2](https://user-images.githubusercontent.com/43899133/52893738-680bae80-31d2-11e9-9302-a3a846b9f08e.png)
+
+![program1](https://user-images.githubusercontent.com/43899133/52893740-6b9f3580-31d2-11e9-87cd-a28c1f0078a2.png)
+
+
+
+
