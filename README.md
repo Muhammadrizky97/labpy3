@@ -128,3 +128,10 @@ for i in lb :
     print('Laba bulan ke-', y ,'sebesar            :', i)
 
 print('Total laba yang didapat adalah      :', sum)
+
+
+![flowchart1](https://user-images.githubusercontent.com/43899133/52893529-cc793e80-31cf-11e9-9c59-c11bd905c0d6.png)
+
+![flowchart2](https://user-images.githubusercontent.com/43899133/52893530-d00cc580-31cf-11e9-9359-106996608278.png)
+
+![flowchart3](https://user-images.githubusercontent.com/43899133/52893531-d26f1f80-31cf-11e9-81f9-3af17a891615.png)
